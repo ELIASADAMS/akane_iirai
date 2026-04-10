@@ -1,11 +1,13 @@
-# Your singer name
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+# Akane Iirai
+Iirai is a 25‑year‑old entity who looks like a guy but behaves more like a wayward project file that climbed out of Eli’s hard drive. His voice lives in the low register, warm and slightly ominous, the kind of bass that feels like it is humming inside bones rather than just in headphones. On stage and in covers, he comes across as hyperactive, talkative, and constantly grinning, but when he actually sings, something older and ritual-like slips through the cracks of his phrasing.
+
+People who meet Iirai get a double impression: visually, he is warm, freckled, and chaotic in a harmless way; sonically, his bass feels like a distant ritual echoing under an empty stage. Eli is the only one who can fully negotiate with him when those scissors hover over something important, which is why Iirai tends to stay close to Eli’s projects and recordings. Iirai jokes that he is “what happens when a voicebank refuses to stay inside its own folder,” and no one has managed to prove him wrong.
 
 ## General information
-- Gender: test
-- Height: 111m
-- Weight: 222g
-- Age: 33
+- Gender: Male
+- Height: 170
+- Weight: 53
+- Age: 25
 
 ## First test bank
 Test description 1
@@ -15,4 +17,4 @@ Test description 1
 ## Second test bank
 Test description 2
 - Type: UTAU
-- Languages: en
+- Languages: jp

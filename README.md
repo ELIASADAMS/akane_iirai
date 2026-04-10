@@ -11,5 +11,5 @@ People who meet Iirai get a double impression: visually, he is warm, freckled, a
 
 ## First test bank
 イーライ (Iirai) – evokes the sound of a stretched “Eli” and the idea of a delayed echo, like a voice arriving late from a metal tunnel.
-- Type: Diffsinger
+- Type: UTAU
 - Languages: jp
